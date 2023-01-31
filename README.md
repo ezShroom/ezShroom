@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shroom2020)](https://github.com/ryo-ma/github-profile-trophy)
 # 👋 Hi
-I'm a developer looking to write code for [LBRY](https://lbry.com/). I'm also a board member for the [LBRY Foundation](https://lbry.org/), and I'd like to expand its ecosystem outside of Odysee, its most visited platform.  
+I'm a developer looking to write code for [LBRY](https://lbry.com/). I'd like to expand its ecosystem outside of Odysee, its most visited platform.  
 I'm currently working on a site for [Aspect.services](https://aspect.services/), and will return to developing for LBRY once that is finished.
 
 ## 👉 Projects
